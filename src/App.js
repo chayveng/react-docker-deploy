@@ -1,7 +1,6 @@
 import React from "react";
 import Dashboard from "./containers/Dashboard";
-// import {ThemeProvider} from 'styled-components'
-import { ThemeProvider } from 'styled-components'
+import { ThemeProvider } from "styled-components"; 
 
 
 const App = () => {
